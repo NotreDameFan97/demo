@@ -1,0 +1,12 @@
+td#header {
+    text-align: center;
+    font-family: cursive;
+    font-size: 55px;
+}
+
+button {
+    font-family: cursive;
+    font-size: 25px;
+    height: 250px;
+    width: 250px;
+}
